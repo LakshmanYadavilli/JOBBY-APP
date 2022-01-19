@@ -1,0 +1,8 @@
+.bio {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  background-size: cover;
+}
